@@ -8,6 +8,7 @@ Welcome to the **Docs** repository! This is a centralized collection of coding g
   - [📑 Table of Contents](#-table-of-contents)
   - [📖 CSS Guides](#-css-guides)
   - [📖 Naming Conventions](#-naming-conventions)
+  - [📖 Git Guides](#-git-guides)
   - [🤝 Contributing](#-contributing)
 
 ## 📖 CSS Guides
@@ -23,6 +24,12 @@ Welcome to the **Docs** repository! This is a centralized collection of coding g
 | [naming-conventions/naming-cases-guide.md](guides/naming-conventions/naming-cases-guide.md)                   | A guide to common naming conventions (e.g., camelCase, snake_case) used in programming. |
 | [naming-conventions/naming-cases-guide-examples.md](guides/naming-conventions/naming-cases-guide-examples.md) | Practical examples illustrating naming conventions in different languages.              |
 
+## 📖 Git Guides
+
+| File                                                                    | Description                                                            |
+| ----------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| [git-guides/allinonegitguide.md](guides/git-guides/allinonegitguide.md) | A step-by-step guide to git,github and their integration with VS code. |
+
 ## 🤝 Contributing
 
 Feel free to add new documents or suggest improvements! To contribute:
@@ -34,4 +41,4 @@ Feel free to add new documents or suggest improvements! To contribute:
 
 ---
 
-_Last updated: August 1, 2025_
+*Last updated: August 2, 2025*
